@@ -1,0 +1,9 @@
+# Do not publish participant data, serial captures or local analysis outputs.
+*.csv
+*.xlsx
+*.xls
+*.mat
+*.fig
+*.asv
+.DS_Store
+Thumbs.db
